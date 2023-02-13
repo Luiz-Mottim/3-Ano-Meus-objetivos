@@ -1,3 +1,7 @@
 # Introdu-o-HTML-CSS
 
-Neste tema abordaremos alguns conceitos básicos de HTML &amp; CSS
+Equipe : alunos do ensino médio.
+
+Prof. Luiz
+
+CEPI
